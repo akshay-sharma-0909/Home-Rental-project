@@ -46,7 +46,7 @@ cd listing
 node app.js
 ```
 
-6. Visit http://localhost:3000 in your browser to access the application.
+6. Visit https://alive-project-145d.onrender.com in your browser to access the application.
 
 ## Tech Stack
 - Backend: Node.js, Express.js
@@ -57,71 +57,43 @@ node app.js
 ```
 project-root/
 │
-├── controllers/
-│   └── Handles request logic (business logic for routes)
-│
-├── init/
-│   └── Initialization files (DB connection, config setup, seed data, etc.)
-│
-├── model/
-│   └── Database models / schemas (MongoDB/Mongoose models)
-│
-├── patches/
-│   └── Utility patches or fixes (custom overrides / helpers)
-│
-├── public/
-│   └── Static assets (CSS, JS, images)
-│
-├── routes/
-│   └── Express route definitions (API endpoints)
-│
-├── utils/
-│   └── Utility/helper functions (reusable logic)
-│
-├── views/
-│   └── Server-side templates (EJS / Pug / Handlebars)
+├── controllers/        # Business logic for routes
+├── init/               # DB connection & initialization files
+├── model/              # MongoDB schemas & models
+├── patches/            # Utility patches or fixes
+├── public/             # Static assets (CSS, JS, images)
+├── routes/             # Express route definitions
+├── utils/              # Helper & utility functions
+├── views/              # EJS templates
 │
 ├── .gitignore
-│   └── Files/folders ignored by Git
-│
-├── CloudConfig.js
-│   └── Cloud service configuration (e.g., Cloudinary, AWS)
-│
-├── joi.js
-│   └── Joi validation schemas for request validation
-│
-├── app.js
-│   └── Main Express app configuration
-│
-├── middleware.js
-│   └── Custom Express middleware (auth, error handling, etc.)
-│
+├── CloudConfig.js      # Cloud service configuration
+├── joi.js              # Joi validation schemas
+├── app.js              # Express app entry point
+├── middleware.js       # Custom middleware
 ├── package.json
-│   └── Project metadata, scripts, dependencies
-│
 └── package-lock.json
-    └── Dependency lock file
 
 ```
 
 ## Screenshots
 ***Login page***
-![image](https://github.com/user-attachments/assets/3a821b29-d347-4628-a708-522aafe01cbe)
+<img width="1272" height="611" alt="Image" src="https://github.com/user-attachments/assets/847bd5cf-47d6-4759-9370-309e437f7bf3" />
+
+
 
 
 ***User Page***
-![image](https://github.com/user-attachments/assets/4bf3c3ce-80d3-4627-a287-e302be97b22f)
+<img width="1272" height="611" alt="Image" src="https://github.com/user-attachments/assets/128872d9-ba9f-4423-b554-096c7a439450" />
 
 
-![image](https://github.com/user-attachments/assets/9a918fd7-14b0-4144-b148-2338344a7c03)
-
-![image](https://github.com/user-attachments/assets/43769c5a-fff8-4544-ba10-fedd9a79d4ca)
 
 
 ***Admin Page***
-![image](https://github.com/user-attachments/assets/526920e5-2938-40f6-b0a5-d9d5b59d2e84)
+<img width="1146" height="541" alt="Image" src="https://github.com/user-attachments/assets/3c4a869d-700e-4897-a15d-408c2c15e5f7" />
+<img width="903" height="821" alt="Image" src="https://github.com/user-attachments/assets/d67156e0-ae9a-4d32-b684-0807015562d2" />
 
-![image](https://github.com/user-attachments/assets/c4b4857b-1ded-486a-93bf-ff14ab7185bf)
+
 
 
 ## Contributing
