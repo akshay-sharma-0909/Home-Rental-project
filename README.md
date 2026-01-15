@@ -1,14 +1,16 @@
-## EV Charging Station Finder and Slot Booking System
-**EV Charging Station Finder and Slot Booking System** is a web-based application designed to help electric vehicle (EV) owners easily find nearby charging stations and book slots in advance . This system is aimed at improving the EV charging experience, ensuring convenience, accessibility, and reliability for users while promoting the adoption of electric vehicles by reducing charging anxiety.
+## Home Rental Platform
+**Home Rental Platform**is a web-based application designed to connect property owners and users through a centralized rental management system. The platform allows property owners to create, update, and delete rental listings, while users can browse properties and share their experiences through reviews.
 
-As the adoption of electric vehicles continues to rise, the need for a streamlined and efficient way to locate, reserve, and pay for charging slots becomes critical. This application addresses that need by offering a simple yet powerful solution.
+As the demand for online rental platforms continues to grow, there is a strong need for a secure and structured system that enables property management and user interaction. This application addresses that need by offering role-based access, listing management, and user-generated reviews to enhance transparency and trust.
 
 ## Features
-- **Charging Station Locator:** Find nearby EV charging stations using geolocation services.
-- **Slot Booking:** View available slots and reserve a time for charging your EV.
-- **Real-time Updates:** Live status of charging slots and availability.
-- **User Profiles:** Create accounts to manage bookings and transaction history.
-- **Station Management:** Admin panel for charging station operators to manage bookings and monitor station performance.
+- ** Property Listing Management **: Property owners can create, update, and delete rental property listings.
+
+- **Property Browsing **: Users can browse available rental properties and view detailed listing information.
+
+- ** User Reviews **: Authenticated users can write reviews for properties and delete their own reviews.
+
+- ** User Authentication **: Secure user and owner accounts with role-based access control.- 
 
 ## Installation
 **Prerequisites**
