@@ -78,8 +78,7 @@ project-root/
 
 ## Screenshots
 ***Login page***
-<img width="1272" height="611" alt="Image" src="https://github.com/user-attachments/assets/847bd5cf-47d6-4759-9370-309e437f7bf3" />
-
+<img width="938" height="321" alt="Image" src="https://github.com/user-attachments/assets/de8f7a34-180e-4637-8a22-9394656ac142" />
 
 
 
